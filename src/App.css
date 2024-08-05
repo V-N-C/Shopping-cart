@@ -1,0 +1,10 @@
+.Brand {
+  font-family: "Aboreto", system-ui;
+  font-weight: 500; font-size: larger;
+  font-style: normal;
+}
+.Foot{
+justify-content: center; text-align: center;
+background-color: black; color: white;
+padding: 3%;
+}
